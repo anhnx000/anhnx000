@@ -4,7 +4,7 @@
 
 ### AI Engineer · AI Agents · Backend Systems · GPU Computing
 
-I build production AI systems that connect **LLMs, tools, data, and real-world actions** — from multi-agent applications and RAG platforms to low-latency APIs and embodied AI.
+I'm an AI engineer based in Hanoi. Most of my work sits between **LLMs, backend systems, and robotics**: building agents that use tools, serving models in production, and getting robots to respond with less delay.
 
 [![Email](https://img.shields.io/badge/Email-xuananhbka%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:xuananhbka@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-anhnx000-181717?style=flat-square&logo=github)](https://github.com/anhnx000)
@@ -12,48 +12,48 @@ I build production AI systems that connect **LLMs, tools, data, and real-world a
 
 </div>
 
-## What I do
+## What I work on
 
-- **Agentic AI:** design stateful multi-agent workflows with intent routing, specialized agents, tool use, structured outputs, memory, and human-in-the-loop-ready control flows.
-- **LLM systems:** build RAG pipelines, MCP-based tool integrations, Text-to-SQL applications, vector search, prompt/config versioning, evaluation, and observability.
-- **AI backend engineering:** ship asynchronous FastAPI services, token and event streaming with SSE, persistent conversation state, Dockerized workloads, and Kubernetes deployments.
-- **GPU & model engineering:** write and optimize CUDA/C++ kernels, profile inference workloads, deploy models with vLLM/ONNX, and work across NVIDIA and AMD GPU platforms.
-- **Embodied AI:** explore Vision-Language-Action models, humanoid robot teleoperation, real-world data collection, and inference for Unitree G1.
+- **AI agents:** multi-agent workflows, intent routing, tool use, memory, structured outputs, and human-in-the-loop flows.
+- **LLM applications:** RAG, MCP integrations, Text-to-SQL, vector search, evaluation, and observability.
+- **Backend:** asynchronous FastAPI services, SSE streaming, conversation state, Docker, and Kubernetes.
+- **GPU and model engineering:** CUDA/C++ kernel optimization, inference profiling, vLLM/ONNX deployment, and work on both NVIDIA and AMD GPUs.
+- **Robotics:** Vision-Language-Action models, humanoid teleoperation, real-world data collection, and inference on the Unitree G1.
 
-## Selected impact
+## A few things I've built
 
-| Area | Engineering outcome |
+| Area | What I did |
 |---|---|
-| Conversational robotics | Built a Vietnamese/English receptionist as a LangGraph state machine with specialized agents, RAG-grounded responses, and real-time robot mission generation. |
-| Low-latency interaction | Streamed generated speech and action commands over SSE and parsed commands during generation, allowing robots to begin acting before the full response completed. |
-| Production LLM platform | Unified Cerebras, Azure OpenAI, and self-hosted vLLM behind one interface; deployed with Docker/Kubernetes and instrumented with Langfuse. |
-| Enterprise Agentic AI | Built multi-agent and MCP-based systems, including Text-to-SQL workflows and backend services for conversation history and feedback. |
-| Large-scale ML | Processed **100M customer records** for deep tagging and product matching, improving pipeline speed by **30×**. |
-| Computer vision | Developed an MS lesion segmentation approach with **91% accuracy** while reducing the base model by **35%**. |
+| Conversational robotics | Built a Vietnamese/English robot receptionist with LangGraph, specialized agents, RAG, and real-time mission generation. |
+| Low-latency interaction | Streamed speech and action commands over SSE, then parsed actions as they arrived so the robot could move before the full response was finished. |
+| LLM platform | Put Cerebras, Azure OpenAI, and a self-hosted vLLM server behind one interface, deployed it with Docker/Kubernetes, and added Langfuse tracing. |
+| Enterprise AI agents | Worked on multi-agent and MCP systems, including Text-to-SQL and backend services for conversation history and user feedback. |
+| Large-scale ML | Processed **100M customer records** for deep tagging and product matching, making the pipeline **30× faster**. |
+| Computer vision | Developed an MS lesion segmentation method that reached **91% accuracy** while making the base model **35% smaller**. |
 
-> Most of my production work is developed in private enterprise repositories. The public projects below show the technologies and research areas I actively explore.
+> Most of my day-to-day work lives in private company repositories. These public projects are a sample of what I experiment with outside that work.
 
 ## Featured projects
 
 ### [AI Agents Masterclass](https://github.com/anhnx000/ai-agents-masterclass)
 
-Hands-on experiments with modern agent patterns, including LangGraph workflows, PydanticAI agents, web-search tools, and custom tool integrations.
+My notes and working examples for LangGraph, PydanticAI, web-search agents, and custom tools.
 
 ### [Model Context Protocol Examples](https://github.com/anhnx000/model_context_protocol_examples)
 
-Practical MCP server/client examples for exposing tools and data through a standardized interface for AI applications.
+Small MCP server and client examples that show how to expose tools and data to AI applications.
 
 ### [Isaac GR00T — Training & Deployment](https://github.com/anhnx000/isaac-groot-anhnx)
 
-Experiments in training and deploying NVIDIA Isaac GR00T for embodied AI and humanoid robotics.
+Experiments with training and deploying NVIDIA Isaac GR00T for humanoid robots.
 
 ### [UnifoLM-VLA](https://github.com/anhnx000/unifolm-vla-anhnx) · [Unitree LeRobot](https://github.com/anhnx000/unitree-lerobot-anhnx)
 
-Vision-Language-Action training/inference, LeRobot dataset workflows, and real-world evaluation on Unitree robot platforms.
+Vision-Language-Action training and inference, LeRobot dataset workflows, and tests on Unitree robots.
 
 ### [Pill & Blister Pack Recognition](https://github.com/anhnx000/blister_packs)
 
-Computer-vision and graph-based experiments for recognizing medicine packaging and matching pill images with prescription information.
+Computer vision and graph-based methods for recognizing medicine packaging and matching pill images to prescription information.
 
 ## Technical toolbox
 
@@ -73,22 +73,22 @@ PyTorch · TensorFlow · scikit-learn · ONNX · vLLM · CUDA · C++ · CuML · 
 
 Vision-Language-Action Models · NVIDIA Isaac GR00T · LeRobot · Unitree G1 · Teleoperation · Real-world Robot Inference
 
-## Background
+## A bit about my background
 
-- AI Engineer working on production agentic systems for service robotics and financial services.
-- Former AI/GPU Engineer at **Moreh**, optimizing model kernels and benchmarking NVIDIA/AMD GPU workloads.
-- Former AI Engineer at **VinBigData**, working on medical imaging and driving-behavior modeling.
+- I currently build AI agent systems for service robotics and financial services.
+- At **Moreh**, I optimized model kernels and benchmarked workloads across NVIDIA and AMD GPUs.
+- At **VinBigData**, I worked on medical imaging and driving-behavior models.
 - B.Sc. in Computer Science from **Hanoi University of Science and Technology** — GPA **3.51/4.00**.
 - Hackathon awards: Champion, HUST Vietnam Logistics Young Talent · Second Runner-Up, ART Hackathon · Third Place, IBM Hackathon.
 
 ## Let's connect
 
-I'm interested in **AI Engineer**, **AI Agent Engineer**, **LLM/Backend Engineer**, and **Applied AI** opportunities where reliability, latency, and measurable product impact matter.
+I'm open to **AI Engineer**, **AI Agent Engineer**, **LLM/Backend Engineer**, and **Applied AI** roles. I'm especially interested in work where latency and reliability are real engineering constraints, not just dashboard metrics.
 
 📫 **xuananhbka@gmail.com** · 📍 Hanoi, Vietnam
 
 <div align="center">
 
-<sub>Building AI that does more than answer — it reasons, uses tools, and acts.</sub>
+<sub>I like building AI that can use tools and do useful work beyond the chat box.</sub>
 
 </div>
