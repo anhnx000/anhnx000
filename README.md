@@ -4,7 +4,7 @@
 
 ### AI Engineer · AI Agents · Backend Systems · GPU Computing
 
-I'm an AI engineer based in Hanoi. Most of my work sits between **LLMs, backend systems, and robotics**: building agents that use tools, serving models in production, and getting robots to respond with less delay.
+I'm an AI engineer based in Hanoi, currently working at **Vingroup** on AI agents for an in-car virtual assistant. Most of my work sits between **LLMs, backend systems, and real-world products**: building agents that understand requests, use the right tools, and respond reliably with low latency.
 
 [![Email](https://img.shields.io/badge/Email-xuananhbka%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:xuananhbka@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-anhnx000-181717?style=flat-square&logo=github)](https://github.com/anhnx000)
@@ -14,6 +14,7 @@ I'm an AI engineer based in Hanoi. Most of my work sits between **LLMs, backend 
 
 ## What I work on
 
+- **In-car virtual assistants:** building AI agents that understand driver requests and connect language models with vehicle features and services.
 - **AI agents:** multi-agent workflows, intent routing, tool use, memory, structured outputs, and human-in-the-loop flows.
 - **LLM applications:** RAG, MCP integrations, Text-to-SQL, vector search, evaluation, and observability.
 - **Backend:** asynchronous FastAPI services, SSE streaming, conversation state, Docker, and Kubernetes.
@@ -24,6 +25,7 @@ I'm an AI engineer based in Hanoi. Most of my work sits between **LLMs, backend 
 
 | Area | What I did |
 |---|---|
+| In-car AI assistant | Currently building AI agent capabilities for Vingroup's in-car virtual assistant, with a focus on tool use, reliable responses, and low-latency interaction. |
 | Conversational robotics | Built a Vietnamese/English robot receptionist with LangGraph, specialized agents, RAG, and real-time mission generation. |
 | Low-latency interaction | Streamed speech and action commands over SSE, then parsed actions as they arrived so the robot could move before the full response was finished. |
 | LLM platform | Put Cerebras, Azure OpenAI, and a self-hosted vLLM server behind one interface, deployed it with Docker/Kubernetes, and added Langfuse tracing. |
@@ -75,7 +77,8 @@ Vision-Language-Action Models · NVIDIA Isaac GR00T · LeRobot · Unitree G1 · 
 
 ## A bit about my background
 
-- I currently build AI agent systems for service robotics and financial services.
+- I currently work at **Vingroup**, building AI agents for an in-car virtual assistant.
+- I have also built agent systems for service robotics and financial services.
 - At **Moreh**, I optimized model kernels and benchmarked workloads across NVIDIA and AMD GPUs.
 - At **VinBigData**, I worked on medical imaging and driving-behavior models.
 - B.Sc. in Computer Science from **Hanoi University of Science and Technology** — GPA **3.51/4.00**.
