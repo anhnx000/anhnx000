@@ -7,8 +7,9 @@
 I'm an AI engineer based in Hanoi, currently working at **Vingroup** on AI agents for an in-car virtual assistant. Most of my work sits between **LLMs, backend systems, and real-world products**: building agents that understand requests, use the right tools, and respond reliably with low latency.
 
 [![Email](https://img.shields.io/badge/Email-xuananhbka%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:xuananhbka@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-anhnx000-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anhnx000/)
 [![GitHub](https://img.shields.io/badge/GitHub-anhnx000-181717?style=flat-square&logo=github)](https://github.com/anhnx000)
-![Location](https://img.shields.io/badge/Hanoi-Vietnam-0A66C2?style=flat-square&logo=googlemaps&logoColor=white)
+![Location](https://img.shields.io/badge/Hanoi-Vietnam-34A853?style=flat-square&logo=googlemaps&logoColor=white)
 
 </div>
 
