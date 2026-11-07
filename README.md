@@ -25,7 +25,8 @@
 - 🧭 **Focus**: Taking LLM systems from prototype to production — agents that pick the right tool, answer reliably, and stay fast under real latency budgets.
 - 🧱 **Range**: End to end, from agent design and async backend services down to CUDA kernels and GPU inference on NVIDIA and AMD.
 - 🤖 **Also**: Vision-Language-Action models and real-world inference on humanoid robots (Unitree G1).
-- 🎓 **Education**: B.Sc. Computer Science, **Hanoi University of Science and Technology** (GPA 3.51/4.00).
+- 🎓 **Education**: B.Sc. Computer Science, **Hanoi University of Science and Technology**.
+- 🥇 **Champion**, HUST Vietnam Logistics Young Talent.
 
 ---
 
@@ -114,23 +115,6 @@ In-car virtual assistant.
 | **[🔌 MCP Examples](https://github.com/anhnx000/model_context_protocol_examples)** | Small MCP servers and clients that show how to expose tools and data to AI applications. | Python, Model Context Protocol |
 | **[🦾 Isaac GR00T — Training & Deployment](https://github.com/anhnx000/isaac-groot-anhnx)** | Training and deploying NVIDIA Isaac GR00T foundation models for humanoid robots. | Python, PyTorch, Isaac GR00T |
 | **[🦿 UnifoLM-VLA](https://github.com/anhnx000/unifolm-vla-anhnx) · [Unitree LeRobot](https://github.com/anhnx000/unitree-lerobot-anhnx)** | Vision-Language-Action training and inference, LeRobot dataset workflows, and tests on Unitree robots. | Python, LeRobot, Unitree G1 |
-| **[💊 Pill & Blister Pack Recognition](https://github.com/anhnx000/blister_packs)** | Computer vision and graph-based methods that match pill and packaging images to prescription information. | PyTorch, Computer Vision |
-
----
-
-### 🏆 Awards
-
-- 🥇 **Champion** — HUST Vietnam Logistics Young Talent
-- 🥈 **Second Runner-Up** — ART Hackathon
-- 🥉 **Third Place** — IBM Hackathon
-
----
-
-### 📊 GitHub Activity
-
-<div align="center">
-  <img height="165" src="https://streak-stats.demolab.com/?user=anhnx000&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-</div>
 
 ---
 
