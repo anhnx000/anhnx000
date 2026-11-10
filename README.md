@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:38BDF8&height=220&section=header&text=Nguy%E1%BB%85n%20Xu%C3%A2n%20Anh&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=AI%20Engineer%20%C2%B7%20Production%20AI%20Agents%20%26%20LLM%20Systems&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:38BDF8&height=220&section=header&text=Nguy%E1%BB%85n%20Xu%C3%A2n%20Anh&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=AI%20Engineer%20%C2%B7%20AI%20Agents%20%C2%B7%20LLM%20Systems%20%C2%B7%20Embodied%20AI&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Nguyễn Xuân Anh, AI Engineer" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=640&lines=Building+AI+agents+for+an+in-car+assistant+%40+Vingroup;From+agent+design+down+to+CUDA+kernels;Latency+and+reliability+are+requirements%2C+not+metrics" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=640&lines=Building+AI+agents+for+an+in-car+assistant+%40+Vingroup;Deploying+VLA+policies+on+a+Unitree+G1+humanoid;From+agent+design+down+to+GPU+kernels" alt="Building AI agents for an in-car assistant at Vingroup" />
 
 <p>
   <a href="mailto:xuananhbka@gmail.com"><img src="https://img.shields.io/badge/Email-xuananhbka%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/anhnx000/"><img src="https://img.shields.io/badge/LinkedIn-anhnx000-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/anhnx000/"><img src="https://img.shields.io/badge/LinkedIn-anhnx000-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2BCg%3D%3D" alt="LinkedIn"/></a>
   <img src="https://img.shields.io/badge/Hanoi-Vietnam-34A853?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
 </p>
 
@@ -18,7 +18,11 @@
 
 I'm **Jeremy**, an AI engineer at **Vingroup** building the AI agent layer of an in-car virtual assistant. I take LLM systems from prototype to production: agents that understand the request, pick the right tool, and answer reliably within a real latency budget.
 
-My range runs end to end — agent architecture, async backend services, model serving, and down to **CUDA kernels on NVIDIA and AMD GPUs**. Outside work I train and deploy **Vision-Language-Action models on humanoid robots**.
+My range runs end to end: agent architecture, async backend services, model serving, and down to **GPU kernels on NVIDIA and AMD**. Outside work I deploy **Vision-Language-Action policies on a Unitree G1 humanoid**.
+
+- 🚗 **At work:** tool-using agents for an in-car assistant, where every extra second of latency is felt by the driver.
+- 🦾 **On the side:** running Isaac GR00T policies on a real G1, with safety limits for closed-loop runs.
+- ✍️ **Open source:** [**viet-nhu-nguoi**](https://github.com/anhnx000/viet-nhu-nguoi), a Claude Code skill that makes AI-written Vietnamese read like a person wrote it.
 
 <table>
   <tr>
@@ -27,6 +31,69 @@ My range runs end to end — agent architecture, async backend services, model s
     <td align="center" width="25%"><h3>35%</h3><sub>smaller model at<br/>91% segmentation accuracy</sub></td>
     <td align="center" width="25%"><h3>🥇</h3><sub>Champion, HUST Vietnam<br/>Logistics Young Talent</sub></td>
   </tr>
+</table>
+
+---
+
+## 🚀 Featured Projects
+
+> Most of my day-to-day work lives in private company repositories. These public repos are work I do outside that.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[✍️ viet-nhu-nguoi](https://github.com/anhnx000/viet-nhu-nguoi)**<br/>
+<sub>Agent Skills · Python · CI</sub>
+
+Agent skill that makes AI-written Vietnamese and English read like a person wrote it, without changing the facts. Ships with a 0–100 AI-voice scanner and a number checker. Works in Claude Code, Codex, Cursor, Gemini CLI, and OpenCode.
+
+</td>
+<td width="50%" valign="top">
+
+**[🦾 unitree-lerobot-anhnx](https://github.com/anhnx000/unitree-lerobot-anhnx)**<br/>
+<sub>Isaac GR00T · LeRobot · Unitree SDK</sub>
+
+GR00T policies on a real Unitree G1 doing pick-and-place. Open-loop and closed-loop evaluation, async inference with temporal ensembling, and a safety layer for the real robot: joint limits, velocity caps, soft start, emergency stop.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[🥽 cloudxr-vs-ipad](https://github.com/anhnx000/cloudxr-vs-ipad)**<br/>
+<sub>Swift · NVIDIA CloudXR · Lua</sub>
+
+Streams XR from a Linux GPU server to an iPad over NVIDIA CloudXR. iOS client with remote record control, GPU-side capture on the server, and Lua tests.
+
+</td>
+<td width="50%" valign="top">
+
+**[⚡ hip_llama.cpp](https://github.com/tienpm/hip_llama.cpp)**<br/>
+<sub>C++ · HIP / ROCm · team project</sub>
+
+Llama 2 inference on AMD GPUs. My part: the softmax, SwiGLU, and RoPE ops, with tests.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[🤖 ai-agents-masterclass](https://github.com/anhnx000/ai-agents-masterclass)**<br/>
+<sub>LangGraph · PydanticAI</sub>
+
+Working examples of agent patterns: web-search agents, custom tools, multi-step workflows, and agent graph visualization.
+
+</td>
+<td width="50%" valign="top">
+
+**[🐧 linux_setups](https://github.com/anhnx000/linux_setups)**<br/>
+<sub>Bash · Ubuntu · ⭐ 11</sub>
+
+Ubuntu workstation recipes I maintain: NVIDIA drivers, dev tooling, GNOME setups, and remote access for Claude Code and OpenCode.
+
+</td>
+</tr>
 </table>
 
 ---
@@ -69,6 +136,7 @@ In-car virtual assistant.
 | **Latency first** | SSE streaming, acting on partial outputs, provider fallback behind a single LLM interface |
 | **Observability** | Tracing every agent step with Langfuse; evaluating answers before they reach users |
 | **Model serving** | vLLM / ONNX deployment, Nsight Systems profiling, kernel-level tuning when the GPU is the bottleneck |
+| **Robots in the real world** | Open-loop checks before closed-loop runs, hard safety limits, async inference to keep control smooth |
 
 ---
 
@@ -82,6 +150,7 @@ In-car virtual assistant.
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
 <img src="https://img.shields.io/badge/PydanticAI-E92063?style=flat-square&logo=pydantic&logoColor=white" alt="PydanticAI"/>
 <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=anthropic&logoColor=white" alt="MCP"/>
+<img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude Code"/>
 <img src="https://img.shields.io/badge/vLLM-30A2FF?style=flat-square" alt="vLLM"/>
 <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square" alt="Qdrant"/>
 <img src="https://img.shields.io/badge/Langfuse-0A0A0A?style=flat-square" alt="Langfuse"/>
@@ -89,49 +158,37 @@ In-car virtual assistant.
 
 **Backend & Delivery**
 
-<img src="https://skillicons.dev/icons?i=py,fastapi,postgres,redis,docker,kubernetes,gitlab,aws,linux,bash&theme=dark" alt="Backend skills"/>
+<img src="https://skillicons.dev/icons?i=py,fastapi,postgres,redis,docker,kubernetes,gitlab,aws,linux,bash&theme=dark" alt="Python, FastAPI, PostgreSQL, Redis, Docker, Kubernetes, GitLab, AWS, Linux, Bash"/>
 
 **ML, Inference & GPU**
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,cpp,anaconda&theme=dark" alt="ML skills"/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,cpp,anaconda&theme=dark" alt="PyTorch, TensorFlow, scikit-learn, OpenCV, C++, Anaconda"/>
 <br/>
 <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="CUDA"/>
-<img src="https://img.shields.io/badge/AMD_GPU-ED1C24?style=flat-square&logo=amd&logoColor=white" alt="AMD"/>
+<img src="https://img.shields.io/badge/HIP_%2F_ROCm-ED1C24?style=flat-square&logo=amd&logoColor=white" alt="HIP / ROCm"/>
 <img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white" alt="ONNX"/>
 <img src="https://img.shields.io/badge/cuML_%2F_cuDF-7400B8?style=flat-square&logo=nvidia&logoColor=white" alt="RAPIDS"/>
 <img src="https://img.shields.io/badge/Nsight_Systems-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="Nsight"/>
 
 **Robotics & Embodied AI**
 
-<img src="https://skillicons.dev/icons?i=ros&theme=dark" alt="ROS"/>
+<img src="https://skillicons.dev/icons?i=ros,swift&theme=dark" alt="ROS, Swift"/>
 <br/>
 <img src="https://img.shields.io/badge/Isaac_GR00T-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="Isaac GR00T"/>
 <img src="https://img.shields.io/badge/LeRobot-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="LeRobot"/>
 <img src="https://img.shields.io/badge/Unitree_G1-111111?style=flat-square" alt="Unitree G1"/>
+<img src="https://img.shields.io/badge/CloudXR-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="NVIDIA CloudXR"/>
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
-
-> Most of my day-to-day work lives in private company repositories. These public repos are a sample of what I explore outside that work.
-
-| Project | What it is | Stack |
-| :--- | :--- | :--- |
-| **[🤖 AI Agents Masterclass](https://github.com/anhnx000/ai-agents-masterclass)** | Working examples of agent patterns: web-search agents, custom tools, multi-step workflows. | LangGraph, PydanticAI |
-| **[🔌 MCP Examples](https://github.com/anhnx000/model_context_protocol_examples)** | MCP servers and clients that expose tools and data to AI applications. | Python, MCP |
-| **[🦾 Isaac GR00T](https://github.com/anhnx000/isaac-groot-anhnx)** | Training and deploying NVIDIA Isaac GR00T foundation models for humanoid robots. | PyTorch, Isaac GR00T |
-| **[🦿 UnifoLM-VLA](https://github.com/anhnx000/unifolm-vla-anhnx) · [Unitree LeRobot](https://github.com/anhnx000/unitree-lerobot-anhnx)** | Vision-Language-Action training and inference, LeRobot datasets, tests on Unitree robots. | LeRobot, Unitree G1 |
-
----
-
 ## 🤝 Let's Connect
 
-Open to **Senior AI Engineer**, **AI Agent Engineer**, **LLM/Backend Engineer**, and **Applied AI** roles — especially where latency and reliability are real engineering constraints.
+Open to **Senior AI Engineer**, **AI Agent Engineer**, **LLM/Backend Engineer**, and **Applied AI** roles, especially where latency and reliability are real engineering constraints.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:1E3A8A,100:0F172A&height=120&section=footer" width="100%" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:1E3A8A,100:0F172A&height=120&section=footer" width="100%" alt="" />
 
 </div>
