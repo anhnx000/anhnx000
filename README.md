@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:38BDF8&height=220&section=header&text=Nguy%E1%BB%85n%20Xu%C3%A2n%20Anh&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=AI%20Engineer%20%C2%B7%20AI%20Agents%20%C2%B7%20LLM%20Systems%20%C2%B7%20Embodied%20AI&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Nguyễn Xuân Anh, AI Engineer" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=640&lines=Building+AI+agents+for+an+in-car+assistant+%40+Vingroup;Deploying+VLA+policies+on+a+Unitree+G1+humanoid;From+agent+design+down+to+GPU+kernels" alt="Building AI agents for an in-car assistant at Vingroup" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=640&lines=Building+in-car+AI+agents+%40+Vingroup;Deploying+VLA+policies+on+a+Unitree+G1;From+agent+design+down+to+GPU+kernels" alt="Building in-car AI agents at Vingroup" />
 
 <p>
   <a href="mailto:xuananhbka@gmail.com"><img src="https://img.shields.io/badge/Email-xuananhbka%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
