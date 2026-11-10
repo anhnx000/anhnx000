@@ -69,23 +69,15 @@ Streams XR from a Linux GPU server to an iPad over NVIDIA CloudXR. iOS client wi
 </td>
 <td width="50%" valign="top">
 
-**[⚡ hip_llama.cpp](https://github.com/tienpm/hip_llama.cpp)**<br/>
-<sub>C++ · HIP / ROCm · team project</sub>
-
-Llama 2 inference on AMD GPUs. My part: the softmax, SwiGLU, and RoPE ops, with tests.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 **[🤖 ai-agents-masterclass](https://github.com/anhnx000/ai-agents-masterclass)**<br/>
 <sub>LangGraph · PydanticAI</sub>
 
 Working examples of agent patterns: web-search agents, custom tools, multi-step workflows, and agent graph visualization.
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
 **[🐧 linux_setups](https://github.com/anhnx000/linux_setups)**<br/>
 <sub>Bash · Ubuntu · ⭐ 11</sub>
